@@ -1,0 +1,29 @@
+header {
+	background-color: #1e1f1f;
+	padding: 1px;
+}
+
+#headerUl {
+	display: flex;
+	list-style: none;
+	justify-content: center;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+#top-list {
+	
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+div {
+	background: url(../Photos/Portfolio-Background.jpg);
+}
+
+#myPic {
+	height: 300px;
+}
